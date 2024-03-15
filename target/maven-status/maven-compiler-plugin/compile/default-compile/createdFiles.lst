@@ -1,0 +1,7 @@
+gr/spinellis/ckjm/MetricsFilter.class
+gr/spinellis/ckjm/PrintPlainResults.class
+gr/spinellis/ckjm/ClassMetrics.class
+gr/spinellis/ckjm/ClassVisitor.class
+gr/spinellis/ckjm/ClassMetricsContainer.class
+gr/spinellis/ckjm/CkjmOutputHandler.class
+gr/spinellis/ckjm/MethodVisitor.class
